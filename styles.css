@@ -1,0 +1,41 @@
+body{ font-family: Helvetica;
+     text-align: center;
+     color: rgb(10, 10, 10);
+     background-color: rgb(32, 103, 103);
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px slategray;
+    list-style: none;
+    image-rendering: autoS;
+    
+}
+
+nav ul { display: flex;,
+    
+    
+
+}
+
+ul li a {
+    margin-right: 12px;
+    
+}
+ul li a {color: #050505;
+    
+}
+
+h1{ font-size: 32px;}
+
+img {
+    border: 3px solid#050505;
+}
+
+footer{
+    padding: 20px;
+    border - top: 1px solid 666;
+}
